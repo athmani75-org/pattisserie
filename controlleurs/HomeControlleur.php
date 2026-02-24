@@ -3,6 +3,6 @@ class HomeControlleur
 {
     public function index()
     {
-        echo "Welcome to the Home page!";
+       include_once 'views/hallo.php';
     }
 }
