@@ -1,5 +1,5 @@
 <?php
-include_once 'definedata.php';
+include_once 'config.php';
 
 class connection
 {
