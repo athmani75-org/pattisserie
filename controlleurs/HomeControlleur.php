@@ -11,8 +11,5 @@ class HomeControlleur
     {
        include_once 'views/hallo.php';
     }
-    public function ajouter()
-    {
-        include_once 'views/Ajouter.php';
-    }
+    
 }

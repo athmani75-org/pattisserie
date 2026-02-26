@@ -1,6 +1,7 @@
 <?php
 
-class connexion{
+class connexion
+{
     public static $Instance;
     public $connecte;
 
